@@ -1,0 +1,121 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Artificial Intelligence",
+      "id": 1,
+      "attr": {
+        "position": [
+          -69,
+          -15,
+          1
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Machine Learning",
+          "id": 2,
+          "ideas": {
+            "1": {
+              "title": "Deep Learning",
+              "id": 5
+            },
+            "2": {
+              "title": "Supervised Learning",
+              "id": 6
+            },
+            "3": {
+              "title": "Unsupervised Learning",
+              "id": 7
+            }
+          }
+        },
+        "2": {
+          "title": "Speech Engine",
+          "id": 20,
+          "ideas": {
+            "1": {
+              "title": "Speech to text",
+              "id": 21
+            },
+            "2": {
+              "title": "Text to Speech",
+              "id": 22
+            }
+          }
+        },
+        "3": {
+          "title": "Expert system for decision making",
+          "id": 23,
+          "attr": {}
+        },
+        "-1": {
+          "title": "Natural Language Processing",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "Classification",
+              "id": 10
+            },
+            "2": {
+              "title": "translation",
+              "id": 11
+            },
+            "3": {
+              "title": "Answering Question",
+              "id": 12
+            },
+            "4": {
+              "title": "Extracting Content",
+              "id": 13
+            }
+          },
+          "attr": {
+            "position": [
+              39,
+              -191,
+              5
+            ]
+          }
+        },
+        "-11": {
+          "title": "Vision System",
+          "id": 15,
+          "attr": {
+            "position": [
+              190,
+              79,
+              3
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Image Processing",
+              "id": 17
+            },
+            "2": {
+              "title": "Object Detection",
+              "id": 19
+            }
+          }
+        },
+        "-12": {
+          "title": "Robotics (Artificial Agent)",
+          "id": 24,
+          "attr": {
+            "style": {
+              "width": 161
+            },
+            "position": [
+              -6,
+              192,
+              4
+            ]
+          }
+        }
+      }
+    }
+  },
+  "title": "Artificial Intelligence"
+}
